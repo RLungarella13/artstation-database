@@ -37,10 +37,10 @@ Triggering the next phase, we designed triggers and brought the actual database 
 
 Wrapping up the project, the final stretch was dedicated to creating views and queries, poised to enhance the Artstation platform's usability. Each query and view was meticulously crafted to ensure their utility and relevance.
 
-## Explore the Code
+[Documentation (🇮🇹)](Database-Documentation.pdf)
+<details>
+  <summary>Conceptual Scheme in MIRO📈</summary>
+  ![](DatabaseER.jpeg)
+</details>
 
-
-For an in-depth exploration of our project, dive into our [Documentation](Database-Documentation.pdf) (available in Italian). It covers everything from the initial stages of concept development to the nitty-gritty details of the final implementation.
-
-![Conceptual Scheme|100](DatabaseER.jpeg)
 
