@@ -40,6 +40,7 @@ Wrapping up the project, the final stretch was dedicated to creating views and q
 [Documentation (🇮🇹)](Database-Documentation.pdf)
 <details>
   <summary>Conceptual Scheme in MIRO📈</summary>
+  
   ![](DatabaseER.jpeg)
 </details>
 
