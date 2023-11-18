@@ -8,7 +8,7 @@ In this project, we set out to create a sleek and efficient database tailored sp
 
 - **Concept to Reality:** We initiated the project by brainstorming and conceptualizing the database structure. This laid the foundation for our journey from theory to practice;
 
-- **E-R Conceptual Database Model:** Take a sneak peek into our thought process with the [Conceptual Scheme](DatabaseER.jpeg). This visual representation showcases the blueprint of our database design.
+- **E-R Conceptual Database Model:** Take a sneak peek into our thought process with the []. This visual representation showcases the blueprint of our database design.
 
 - **Logical Implementation:** Transitioning from theory to practice, we seamlessly brought our conceptual model to life with a logical implementation. PostgreSQL proved to be our trusty companion throughout this phase.
 # Project Overview 🚀
@@ -37,11 +37,9 @@ Triggering the next phase, we designed triggers and brought the actual database 
 
 Wrapping up the project, the final stretch was dedicated to creating views and queries, poised to enhance the Artstation platform's usability. Each query and view was meticulously crafted to ensure their utility and relevance.
 
-[Documentation (🇮🇹)](Database-Documentation.pdf)
-<details>
-  <summary>Conceptual Scheme in MIRO📈</summary>
-  
-  ![](DatabaseER.jpeg)
-</details>
+`THE FOLLOWING DOCUMENTATION IS AVAILABLE ONLY IN ITALIAN🇮🇹`
+### PDF Documentation ->[📃](Database-Documentation.pdf)
+### Miro Scheme ->[📟](https://miro.com/app/live-embed/uXjVMKOquVs=/?moveToViewport=-8861,1326,17856,10681&embedId=530991522518)
+
 
 
